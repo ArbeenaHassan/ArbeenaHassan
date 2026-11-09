@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm **Arbeena Hassan**
 
-### Backend Developer • Full-Stack Developer • AI Applications
+### Full-Stack Developer • AI Applications
 
 *Building reliable backend systems and AI-powered applications*
 
