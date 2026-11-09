@@ -130,7 +130,7 @@ const arbeena = {
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArbeenaHassan&custom_title=Arbeena's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
