@@ -22,6 +22,8 @@
 
 ## 🚀 What I Do
 
+<img align="right" width="360" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 I build **end-to-end backend and full-stack systems**, from enterprise APIs with real-time SAP synchronization to voice-based AI platforms and event-driven pipelines. With 1.2 years of experience at **IBM** (Nestlé's "Line & Labour" app) plus an internship on an AI agent platform, I focus on **reliability, clean APIs and shipping to production**.
 
 ```typescript
@@ -36,6 +38,8 @@ const arbeena = {
     ]
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -130,10 +134,18 @@ const arbeena = {
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 GitHub Contributions & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArbeenaHassan&custom_title=Arbeena's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github.pumbas.net/api/contributions/ArbeenaHassan?colour=58A6FF&bgColour=0D1117" alt="Arbeena's Contribution Graph" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArbeenaHassan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api?username=ArbeenaHassan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
 </div>
 
 ---
@@ -149,18 +161,3 @@ const arbeena = {
 ⭐️ From [ArbeenaHassan](https://github.com/ArbeenaHassan)
 
 </div>
-
-<!--
-**ArbeenaHassan/ArbeenaHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
